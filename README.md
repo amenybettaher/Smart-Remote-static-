@@ -1,1 +1,4 @@
 # Smart-Remote-static-
+
+
+I participated in a comprehensive smart house project, where I was responsible for developing several key components of the application. My contributions included designing and implementing the smart remote page, which allows users to control various air conditioner devices seamlessly. Additionally, I developed the onboarding process to ensure a smooth and user-friendly initial setup experience. I also created the login and sign-in functionalities, ensuring secure access to the application. Furthermore, I designed the home page, including a side bar for easy navigation and access to different features, enhancing the overall user experience and functionality of the smart house application.
